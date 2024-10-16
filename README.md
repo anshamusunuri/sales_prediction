@@ -5,6 +5,7 @@ Sales Prediction Model
 This project focuses on building a predictive model to forecast sales based on historical data, leveraging machine learning techniques. The goal is to help businesses optimize inventory, marketing strategies, and resource allocation by accurately predicting future sales.
 
 Key Features:
+
 Data Analysis: Cleaned and preprocessed sales data, handling missing values and outliers, and created new time-based features to enhance prediction accuracy.
 
 Modeling: Implemented multiple regression models including Linear Regression, Random Forest, and XGBoost to forecast future sales.
